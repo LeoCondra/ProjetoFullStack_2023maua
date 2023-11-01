@@ -12,4 +12,13 @@ download Thunder Client
 extensão google:
 Json Viewer
 
+mandar pro github
+
+
+
+chamar do github
+
+git clone <link>
+cd <nome do arquivo>
+npm install
  -->
