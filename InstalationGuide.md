@@ -21,4 +21,11 @@ chamar do github
 git clone <link>
 cd <nome do arquivo>
 npm install
+
+enviar pro github
+git add *
+git commit -m "<mudança/comentario>"
+git push
+
+
  -->
